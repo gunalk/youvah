@@ -8,10 +8,11 @@
 
 .large-device{
   
-  width:100%;
-  height: 1540px;
+   width:100%;
+  height: 1640px;
   background: #15202B;
-  overflow-y: hidden !important;
+  overflow-x: hidden;
+  
   
   
   
